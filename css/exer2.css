@@ -16,18 +16,17 @@ header {
 background-color: #97948F ; *cabeçalho
 display:block;
 color:#FFFFFF;
-height: 140px;
 text-align:center
 
 }
 
 
 h1 {
-font-size: 3rem;
+font-size: 2rem;
 margin: 0px;
 }
 h2 {
-font-size: 1rem;
+font-size: 1.5rem;
 margin: 0px;
 text-align:center;
 color: #e3a446 ;
@@ -40,16 +39,16 @@ color: #97948F;
 }
 
 header h2 {
-margin: 30px;
+margin: 0px;
 }
 h4 {
 color: #e3a446;
 background-color:#FEFEFD;
 box-shadow: 10px 10px 5px #888888;
-transform: rotate(-25deg);
+transform: rotate(-13deg);
 position: absolute;
-padding: 10px 100px;
-top: 22px;
+padding: 6px 150px;
+top: 10px;
 left: -100px;
 text-align:center;
 font-size:0.8rem;
